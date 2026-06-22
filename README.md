@@ -1,6 +1,7 @@
 # InventorAI
 Open-source AI assistant for inventors and innovators.
 # InventorAI – Open-Source-Assistent für Erfinder
+This project is currently in the concept stage.
 
 ## Projektidee
 
